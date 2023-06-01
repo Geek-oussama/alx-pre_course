@@ -1,3 +1,2 @@
-ls
-#!/bin/bash
-echo "School"
+#!bin/bash
+echo"school"
